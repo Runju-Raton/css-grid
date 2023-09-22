@@ -1,0 +1,4 @@
+If you need equal width columns or columns propotional to each other use only fr units.
+===========
+grid-template-columns : 1fr 2fr 1fr;
+===========
